@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=npanel
+comment0.text=
+comment1.params=
+comment1.target=npanel()
+comment1.text=
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=
+comment3.params=e
+comment3.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.text=
+comment4.params=e
+comment4.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.text=
+comment5.params=e
+comment5.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment5.text=
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.text=
+numComments=7
